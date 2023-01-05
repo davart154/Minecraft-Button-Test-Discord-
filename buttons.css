@@ -23,7 +23,7 @@
     position: relative;
 }
 .itemFilled-1cPbtg[aria-checked=false] {
-    border-bottom: 4px solid;
+    border-bottom: 4px solid #58585A;
     z-index: 1;
 }
 .itemFilled-1cPbtg:hover:not([aria-checked=true]):not(.disabled-3tqE8r) {
